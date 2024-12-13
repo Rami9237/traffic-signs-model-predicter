@@ -46,4 +46,4 @@ npm run dev
 ```
 ## 🚀 Demo
 Here's a quick demo of how the app looks like 😀
-![Project Demo](/demomodel.gif)
+![Project Demo](./demomodel.gif)
